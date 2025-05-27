@@ -1,8 +1,6 @@
 <div align="center">
-   <img alt="Stoolap" src="canvas.svg" height="100%">
+   <img alt="Stoolap" src="canvas.svg" width="100%">
 </div>
-
-  ---
 
   ## 👋 Welcome to Stoolap
 
