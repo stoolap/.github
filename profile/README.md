@@ -1,5 +1,5 @@
 <div align="center">
-
+   <img alt="Stoolap" src="canvas.svg" height="100%">
 </div>
 
   ---
