@@ -65,5 +65,3 @@
   🛡️ License
 
   All Stoolap projects are open source under the Apache 2.0 license.
-
-  ---
