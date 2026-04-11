@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Stoolap" src="canvas.svg" width="100%">
+  <img alt="Stoolap" src="https://raw.githubusercontent.com/stoolap/stoolap/refs/heads/main/logo.svg" width="50%">
 </div>
 
 ## Welcome to Stoolap
